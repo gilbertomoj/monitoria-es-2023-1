@@ -99,3 +99,4 @@ if(msg.length>0){
 	}
 	
 }
+//esse codigo, na verdade, nao clona cartao
