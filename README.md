@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://pbs.twimg.com/media/FsahyrvXsAASTiq.jpg" alt="logo" width="200" height="auto" style="border-radius:20px;" />
+  <img src="https://pbs.twimg.com/media/FIMbTJ0XEAosxvx.jpg" alt="logo" width="200" height="auto" style="border-radius:20px;" />
 
   <h3>
     [IF977] - ENGENHARIA DE SOFTWARE - CIN UFPE
