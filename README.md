@@ -20,6 +20,7 @@
 
 ## :fairy: Lista de estudantes
 
+- Lucas Campos (:
 - Matheus
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠦⣤⣤⣦⣄⠀⠀⠀⠀
