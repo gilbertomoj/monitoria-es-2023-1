@@ -22,6 +22,8 @@
 
 - Lucas Campos (:
 - Matheus
+- Demetriu Gabriel
+=======
 - João Felipe
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠦⣤⣤⣦⣄⠀⠀⠀⠀
