@@ -42,7 +42,7 @@ function checkCard(num){
 				tipo = "Empresas Aéreas";
 				break;
 			case 2:
-				tipo = "Empresas Aéreas";
+				tipo = "Instituições Educacionais";
 				break
 			case 3:
 				tipo = "Viagens e Entretenimento";
