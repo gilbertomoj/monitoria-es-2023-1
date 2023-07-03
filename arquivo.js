@@ -74,10 +74,6 @@ function checkCard(num){
 				tipo = "Nacionais";
 				operadora = "";
 				break
-			case 10:
-				tipo = "Bancos e Instituições Financeiras";
-				operadora = "Nubank";
-				break
 			default:
 				msg.push("Número incorreto");
 				break;
