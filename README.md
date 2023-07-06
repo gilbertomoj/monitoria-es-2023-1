@@ -133,7 +133,11 @@
 
 - Gustavo Queque-
         :)
+        
+- Evandro de Souza ⚫⚪🔴
+
 - Marcos Antonio :D
+
 - Higor Bento
 ```plaintext
   ⠉⢉⠼⠉⠉⠉⢉⢉⣽⠿⠫⠟⠉⢉⣉⣉⣩⠿⡉⠫⠉⠉⠙⠉⠉⠉⠉⠉⠉⣩ 
