@@ -133,6 +133,8 @@
 
 - Gustavo Queque-
         :)
+
+- Geovanna Domingos :smile: :v:
         
 - Evandro de Souza ⚫⚪🔴
 
