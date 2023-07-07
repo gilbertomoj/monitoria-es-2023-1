@@ -138,6 +138,8 @@
 
 - Marcos Antonio :D
 
+- Humberto Campos
+
 - Higor Bento
 ```plaintext
   ⠉⢉⠼⠉⠉⠉⢉⢉⣽⠿⠫⠟⠉⢉⣉⣉⣩⠿⡉⠫⠉⠉⠙⠉⠉⠉⠉⠉⠉⣩ 
